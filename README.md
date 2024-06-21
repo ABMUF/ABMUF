@@ -64,4 +64,4 @@ Experienced Data Analyst with 6 years of expertise in data analysis, governance,
   - Team Collaboration and Stakeholder Engagement
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[<img src="https://github.com/ABMUF/ABMUF/blob/main/Soicals/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](www.linkedin.com/in/abdulrahman-almoufti)
+[<img src="https://github.com/ABMUF/ABMUF/blob/main/Soicals/linkedin.png" height="40em" align="center" alt="Follow ABMUF on LinkedIn" title="Follow ABMUF on LinkedIn"/>](www.linkedin.com/in/abdulrahman-almoufti)
