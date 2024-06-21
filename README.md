@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Experienced Data Analyst with 6 years of expertise in data analysis, governance, and business intelligence. Proficient in SQL, Python, Power BI, and various data analysis tools. Adept at analyzing complex datasets to derive actionable insights. Strong problem-solving skills and a commitment to delivering high-quality solutions. Fluent in Arabic and English.
+Experienced Data Analyst with expertise in data analysis, governance, and business intelligence. Proficient in SQL, Python, Power BI, and various data analysis tools. Adept at analyzing complex datasets to derive actionable insights. Strong problem-solving skills and a commitment to delivering high-quality solutions. Fluent in Arabic and English.
 
 ## Professional Experience
 
